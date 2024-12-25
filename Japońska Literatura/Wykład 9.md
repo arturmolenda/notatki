@@ -144,7 +144,7 @@ spisywane też na drewnianych kręgach
 - znaczenie dorosłego imienia poety: -> zapożyczenie z Dialogów konfucjańskich? (rozdział 4.14. --- cała nauka [droga] jest, "przesiąknięta (na wylot)" jednym ("jedną myślą") [znaki])
   (guan zhi [znaki] - przenikać przechodzić na wylot)
 
-- wychowanie się w dwóch ośrodkach
-
+**wychowanie się w dwóch ośrodkach:**
+|
 -> syn damy dworu z Naikyooboo; przebywał w ich pwilonach i pobierał edukację właściwą bardziej młodym córkom arystokratów niż dla męskiego potomka miał możliwośc poznania niuansów języka kobiet-arystokratek
--> klasyczna literatura chińska; ok. 880 r. po śmierci Ki no Mochiyukiego, ojca poety, jego wychowaniem zajął się dziadek - Ki no Motomichi oraz wuj- ki no Aritsune możliwość stykania się na salonach z księciem KOresadą, Ariwara no Narihirą czy Sugawara no Michizane
+-> klasyczna literatura chińska; ok. 880 r. po śmierci Ki no Mochiyukiego, ojca poety, jego wychowaniem zajął się dziadek - Ki no Motomichi oraz wuj- Ki no Aritsune możliwość stykania się na salonach z księciem Koresadą, Ariwara no Narihirą czy Sugawara no Michizane
