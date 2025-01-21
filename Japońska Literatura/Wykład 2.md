@@ -20,8 +20,11 @@ najstarsze inskrypcje...
 #### Etapy asymilacji pisma chińskiego w Japonii
 
 1. Kanbun
-- tekst chiński odczytywany po japońsku...
-
+	- tekst chiński odczytywany po japońsku
+	- nienotowanie morfemów gramatycznych
+	- stosowanie okuriten (kolejność odczytywania fraz)
+	- orzeczenia na końcu zdania (pierwsze próby japonizacji)
+	- inskrypcje na mieczach, np. z kurhanu w Ia=nariyama
 
 2. Man'yoogana
 

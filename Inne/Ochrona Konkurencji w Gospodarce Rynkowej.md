@@ -167,3 +167,18 @@ Zgodnie z art. 27 ustawy o bezpieczeństwie żywności i żywienia z dnia 25 sie
 Suplementy diety mogą zawierać witaminy, minerały oraz inne substancje wykazujące efekt odżywczy lub fizjologiczny, które naturalnie występują w żywności.
 
 Minister zdrowia określił wykaz dozwolonych składników oraz ich form chemicznych. Poziomy tych substancji muszą być ustalone w sposób, który gwarantuje bezpieczeństwo zdrowia konsumentów przy stosowaniu suplementu zgodnie z zaleceniami na etykiecie.
+
+
+
+
+
+# Idk kolejny wykład
+
+
+Zaliczenie - na moodlu, jest osobny moduł. Test 4 pytania z puli, którą dostaniemy
+
+https://www.youtube.com/watch?v=iZPHETJAlP8&list=PLUchO7GuOkaD0SIpjdpc9HD9s5slnwVVx&index=75
+
+https://www.youtube.com/watch?v=yitKZE8wfow&list=PLUchO7GuOkaD0SIpjdpc9HD9s5slnwVVx&index=78
+
+https://www.youtube.com/watch?v=CokWssXWbWA&t=48s
