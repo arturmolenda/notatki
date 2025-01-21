@@ -150,3 +150,7 @@ Japończycy traktowali film jako przedłużenie praktyk narracyjnych charakterys
 
 
 
+<font color="#ffff00">Kadr</font> - jedna klatka naświetlonej taśmy, jednostka statyczna
+<font color="#ffff00">Ujęcie</font> - najmniejsza jednostka dynamiczna, fragment filmu zawarty między dwoma najbliższymi cięciami montażowymi. 
+<font color="#ffff00">Scena</font> - Fragment filmu składający się z kilku lub kilkunastu ujęć, ale połączony jednością miejsca, czasu i akcji. Samodzielna jednostka dramaturgiczna
+<font color="#ffff00">Sekwencja Scenowa</font> - Fragment filmu składający się z kilku/kilkunastu scen, połączony jednością fabularną.
