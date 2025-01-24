@@ -1,1 +1,1 @@
-"# notatki 1 semestr KDW" 
+# notatki 2 rok 1 semestr KDW
