@@ -27,3 +27,17 @@ Zmiana statusu:
 
 
 
+**Separacja (Wyłączenie):**
+
+1. Odejście panny młodej z domu rodzinnego przed ślubem.
+2. Żałoba po śmierci bliskiej osoby, symboliczne odcięcie od życia codziennego.
+
+**Marginalizacja (Liminalność):**
+
+1. Okres narzeczeństwa, kiedy para nie jest już osobno, ale jeszcze nie jest małżeństwem.
+2. Rekruci podczas szkolenia wojskowego, znajdujący się między statusem cywila a żołnierza.
+
+**Agregacja (Włączenie):**
+
+1. Nadanie nowego imienia dziecku w ceremonii chrztu, co oznacza jego przyjęcie do wspólnoty.
+2. Powrót żołnierzy do życia cywilnego po zakończeniu służby wojskowej.

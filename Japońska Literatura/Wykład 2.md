@@ -57,7 +57,7 @@ Man'yoogana --> współczesne przykłady użycia
 
 
 
-3. Wanbun
+3. Wabun
 - wraz z powstaniem systemu hiragana zaczęto używać jej w funkcji pisma sylabicznego
 (może pytać kiedy wytworzyło się pismo japońskie, 9 wiek)
 - ideogramy chińskie używane wyłącznie w funkcji semantycznej
@@ -68,7 +68,7 @@ Man'yoogana --> współczesne przykłady użycia
 Kana 仮名 - zapis sylabiczny [=sylabogramy]
 
 - znaki man'yoogany, do końca VIII wieku nieróżniące się wyglądem od znaków używanych semantycznie, zaczęły w IX wieku ulegać dwojakim uproszczeniom:
-	1. zapis ieogramów stylem tawiastym (shoosho ), czyli pismem kursywnym doprowadził do redukcji ilości kresem, którego końcowym etapem rozwoju graficznego jest **hiragana** 平仮名
+	1. zapis ideogramów stylem tawiastym (shoosho ), czyli pismem kursywnym doprowadził do redukcji ilości kresem, którego końcowym etapem rozwoju graficznego jest **hiragana** 平仮名
 	2. w pismach buddyjskich stosowano jedynie fragmenty znaków man'yoogany zamiast ich pełnych postaci, co finalnie doprowadziło do wykształcenia się systemu **katakana** 片仮名
 
 

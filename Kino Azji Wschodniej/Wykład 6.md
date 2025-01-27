@@ -4,7 +4,7 @@
 
 
 
-### **Menji** - "Epoka Światłych Rządów"
+### **Meiji** - "Epoka Światłych Rządów"
 
 - Panowanie cesarza Mutsuhito: 1869-1912
 - Modernizacja kraju na wzór zachodni

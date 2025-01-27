@@ -17,7 +17,8 @@ Melanowicz historia literatury japońskiej
 - Kamakura (XII - XIV w.) Czas dominacji rodów Minamoto i Hōjō
 - Muromachi (XIV - XVI w.) Shogunat Ashikaga
 - Edo (XVII - XIX w.) Dominacja siogunatu Tokugawa
-- Współczesność (od II połowy XIX w.) zwany dawniej "Okresem Tokijskim" - ośrodek władzy i kultury stanowi Tokio. Poszczególne okresy tożsame z okresami panowania kolejnych cesarzy
+- Współczesność (od II połowy XIX w.) zwany dawniej "Okresem Tokijskim" - ośrodek władzy i kultury stanowi Tokio. 
+  Poszczególne okresy tożsame z okresami panowania kolejnych cesarzy
 
 - Meiji 1868-1912
 - Taishō 1912-1926
