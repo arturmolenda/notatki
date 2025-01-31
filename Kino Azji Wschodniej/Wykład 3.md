@@ -67,7 +67,7 @@ vitascope - amerykański wynalazek, zmodernizowany kinematograf
 
 - Inabata sprzedaje braciom sprzęt wraz z prawami do projekcji
 
-- **Einosuke Yokata - biznesman i showman**. Bez europejskiego doświadczenia. Pracował w Ameryce, gdzie zajmował się handlem.
+- **Einosuke Yokota - biznesman i showman**. Bez europejskiego doświadczenia. Pracował w Ameryce, gdzie zajmował się handlem.
 - Po powrocie do Japonii zakłada **Fushigi-kan** (hala tajemnic)
 - Przed wszystmin ROZRYWKA
 

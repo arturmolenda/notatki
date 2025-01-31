@@ -90,7 +90,7 @@ Pieni japońskie - pierwszy raz nazwanie twórczości japońskiej
 
 ### Kiedy powstaje pieśń japońska?
 
-- brak w Manajo zdania, któe znajduje sięu Tsurayukiego:
+- brak w Manajo zdania, które znajduje się u Tsurayukiego:
 
 	**Czasami poeta błądził po nieznanych okolicach w pogoni za pięknem kwiatów; czasami zagłębiał się w nieprzeniknioną ciemność, by pisać o księżycu. Władcy zaś oddzielali wiersze piękne od miernych**
 

@@ -1,3 +1,12 @@
+# Literatura diarystyczna dam dworu (oochoo joryuu nikki bungaku)
+
+
+### Tradycja nikki w okresie Heian
+
+- Ki no Tsurayuki, autor Tosa nikki, rozbudził zainteresowanie rodzimym językiem jako narzędziem literackim
+- prekursorskie dzieło Tsurayukiego dało początek wielu innym dziennikom, opowieściom i szkicom pisanym sylabariuszem
+- zastosowanie wabun pozwalało precyzyjnie wyrażać uczucia i opisywać specyficznie japońskie obyczaje, ludzi i przyrodę
+- autorami najwybitniejszych nikki z okresu Heian były damy dworu, stąd termin oochoo joryuu nikki
 
 ### Kobiece pamiętniki dworskie
 

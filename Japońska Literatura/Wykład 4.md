@@ -119,4 +119,7 @@ o poetykach, które ukształtowały rodzimą poezję -
 - **Kanojo**, czyli "Przedmowa do Kokinwakashuu" (Zbiór pieśni dawnych i dzisiejszych, 905 r.) Ki no Tsurayukiego jako pierwsza poetyka normatywna w literaturze japońskiej:
 [wiersz: Pieśni japońskie wyrastają z nasienia serc ludzkich ...]
 
-- Co stanowiło punkt odniesienia, wzorzec w zakresie poetyki normatywnej dla Ki no Tsurayukiego i jemu współczesnych
+- Co stanowiło punkt odniesienia, wzorzec w zakresie poetyki normatywnej dla Ki no Tsurayukiego i jemu współczesnych. Od tego czasu rodzi się proza pisana wabenie "wcześniej była to tylko poezja. Istnienie analogicznie wersja w języku chińskim (manajo)
+
+
+- Chokusenshu - zbiór wybranych utworów na rozkaz cesarski, do tego rodzaju należało kokinshu.
