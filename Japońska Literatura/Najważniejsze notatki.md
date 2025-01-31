@@ -63,3 +63,48 @@ głównie kobiety doprowadziły do uproszczenia dawnych znaków, dzięki czemu n
 
 
 {wykład 2 norito, senmyo, kayo, saibara itp.}
+
+
+
+
+
+**Porównanie _Kojiki_ i _Nihon Shoki_**
+
+### 1. **Kontekst powstania**
+
+- **Kojiki (712 r.)** – najstarsza kronika Japonii, napisana na zlecenie cesarza Tenmu i ukończona za panowania cesarzowej Gemmei.
+- **Nihon Shoki (720 r.)** – druga najstarsza kronika, powstała na zlecenie cesarza Genshō, jako bardziej oficjalna i szczegółowa historia Japonii.
+
+### 2. **Autorstwo i cel**
+
+- **Kojiki** – autorstwo przypisywane Ō no Yasumaro, który spisał ustne przekazy wyrecytowane przez Hiedę no Are. Miało to na celu ugruntowanie legitymacji władzy cesarskiej poprzez ukazanie boskiego pochodzenia cesarzy.
+- **Nihon Shoki** – spisane przez komisję uczonych pod przewodnictwem księcia Toneri. Dzieło miało charakter bardziej oficjalny i służyło dyplomatycznym kontaktom z Chinami oraz legitymizacji władzy Yamato.
+
+### 3. **Język i styl**
+
+- **Kojiki** – zapisane głównie w języku japońskim przy użyciu fonetycznych zapisów znakami chińskimi (man’yōgana). Styl bardziej literacki i mityczny.
+- **Nihon Shoki** – napisane klasyczną chińszczyzną, bardziej formalne i szczegółowe, aby mogło być czytane i uznawane przez dwory chińskie i koreańskie.
+
+### 4. **Struktura i treść**
+
+- **Kojiki** – podzielone na trzy części:
+    
+    1. **Księga pierwsza** – mity o stworzeniu Japonii, bogach (kami), narodzinach Amaterasu i jej boskim rodzie.
+    2. **Księga druga** – genealogia cesarzy, legendy o Jimmu Tennō i pierwszych władcach.
+    3. **Księga trzecia** – opowieści o ziemskich cesarzach aż do cesarzowej Suiko.
+- **Nihon Shoki** – bardziej szczegółowe, podzielone na 30 tomów, obejmuje historię od stworzenia świata po cesarza Jitō. Więcej odniesień do wydarzeń historycznych, stosuje alternatywne wersje mitów i bardziej rozbudowane relacje polityczne.
+    
+
+### 5. **Znaczenie i wpływ**
+
+- **Kojiki** – fundamentalne źródło mitów i legend Japonii, podkreśla boskie pochodzenie cesarskiego rodu i tworzy podstawy shintō. Jest bardziej artystyczne, mniej historyczne.
+- **Nihon Shoki** – pierwsza oficjalna kronika historyczna Japonii, uznawana przez państwa sąsiednie. Bardziej szczegółowe w opisie dynastii i wydarzeń politycznych, stanowi podstawę późniejszych kronik historycznych.
+
+### 6. **Różnice w interpretacji mitologii**
+
+- **Kojiki** – bardziej skondensowane, przedstawia bogów jako bliskich ludziom, koncentruje się na rodzie cesarskim.
+- **Nihon Shoki** – zawiera kilka alternatywnych wersji mitów, często przedstawia bogów w sposób bardziej odległy i podporządkowany kosmologii chińskiej.
+
+### **Podsumowanie**
+
+_Kojiki_ to bardziej mitologiczne i literackie dzieło, podkreślające boskie pochodzenie cesarzy, podczas gdy _Nihon Shoki_ jest bardziej oficjalną, historyczną kroniką, zapisaną w języku chińskim i dostosowaną do dyplomacji międzynarodowej.
