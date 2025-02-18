@@ -166,6 +166,6 @@ W toku rytuałów wchodzi się w przestrzeń, w której struktury są demontowan
 
 Możemy mówić o estetycznej, jak i wielu innych
 Sfera estetyczna - teatr, cyrk
-Sfera społeczna, polityczna, rytualnych konfliktów, rzucania na siebie klątw ("oni działają niekonstytucjolanie!")
+Sfera społeczna, polityczna, rytualnych konfliktów, rzucania na siebie klątw ("oni działają niekonstytucjonalnie!")
 Sfera religina/duchowa
 i wiele innych

@@ -39,7 +39,7 @@ gdzie strumienie spływają po skałach
   -> opowieści były rzadką i dość drogą rozrywką, ponieważ pojedynczy manuskrypt wystarczał jedynie dla wąskiego grona czytelników
 - na przełomie IX i X wieku w Japonii zaczęły powstawać dwa typy opowieści
 
-<font color="#00b0f0">uta monogatara</font>
+<font color="#00b0f0">uta monogatari</font>
 <font color="#00b0f0">歌物語</font>
 "opowiadania do wierszy"
 

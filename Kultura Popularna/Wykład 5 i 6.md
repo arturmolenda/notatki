@@ -66,7 +66,7 @@ Joseph Campbell - Bohater o tysiącu twarzy 1949 -> reedycja 1968
 Christopher Vogler - Podróż Autora 2007
 *Struktury mityczne dla scenarzystów i pisarzy*
 
-Początkowo - skrót *Bohatera o tysiącu twarzy* przeznaczony dla hollywoodczkich scenarzystów
+Początkowo - skrót *Bohatera o tysiącu twarzy* przeznaczony dla hollywoodzkich scenarzystów
 
 
 
