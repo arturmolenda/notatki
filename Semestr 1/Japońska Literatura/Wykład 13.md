@@ -156,7 +156,7 @@ Całość tekstu można podzielić na trzy części:
 
 - damy dworu czytały i przepisywały ilustrowane opowieści dla zabicia nudy; służyły pocieszeniu w chwilach bezczynności
 - opowieści mogą przekazywać" to, co było w świecie od epoki bogów", zatem nie służą jedynie celom rozrywkowym -> przekazują prawdę o ludziach dawnych czasów
-- opowieści niekoniecznie są przeszkodą na drodze do wiary buddyjskiej -> warto patrzeć na nie przez pryzmat tzw. "Prawd przystosowanych" (hōben), które mówią o czynach pozornie niezgodnych zasadami buddyjskimi' w duch tej koncepcji dzieło literackie należy rozpatrywać pod kątem dobrych i złych cech w bohaterach.
+- opowieści niekoniecznie są przeszkodą na drodze do wiary buddyjskiej -> warto patrzeć na nie przez pryzmat tzw. "Prawd przystosowanych" (hōben), które mówią o czynach pozornie niezgodnych z zasadami buddyjskimi' w duch tej koncepcji dzieło literackie należy rozpatrywać pod kątem dobrych i złych cech w bohaterach.
 
 
 ### Genji Monogatari - Murasaki o sztuce powieściowej
@@ -167,7 +167,7 @@ Całość tekstu można podzielić na trzy części:
 3) autor opowieści ukazuje to, co jego serce przepełnia wzruszeniem natomiast nie zajmuje się szczegółami historycznymi, wycinkowymi lecz daje całościowy obraz świata
 4) autor pragnie przekazać innym pokoleniom zarówno wiadomości dobre, jak i złe spośród tego, co widział i słyszał w życiu
 5) autor wyjaśnia również technikę tworzenia dobrych lub złych bohaterów, twierdząc że przykłady zachować, przymioty bohaterów bierze po prostu z tego świata, w którym życie
-6) japońs...
+6) teksty japońskie, chińskie.
 
 
 
