@@ -104,16 +104,10 @@ Krok 4: Konflikt, punkt kulminacyjny -> ktoś dostaje za swoje, rozwinięcie ese
 ma wywołać niepokój i zostać później pokonany.
 ##### Lub potwór
 niebanalny rodzaj potwora, który nie spełnia swojej archetypowej roli, nie pozostawia rozstrzygnięcia
-
-
 - kiedy postać, do której jesteśmy przywiązani pokonuje przeszkody reagujemy radością i podziwem
 - i odwrotnie kiedy nic się nie udaje, to reagujemy złością lub gdy nie udaje się w wyniku knować złego
 
-
-
 - Autorzy opowieści popkulturowych potrafią skutecznie wzbudzać zamierzone emocje, zwłaszcza z grupy emocji podstawowych na bazie wspólnoty biologicznej i kulturowej z widzami.
-
-
 
 - Kultura popularna ciąży w stronę masowej przystępności i masowego odbioru, bazuje na stosunkowo prostych, typowych strukturach emocjonalnych.
 - Biologiczne zaplecze emocjonalne człowieka jako gatunku.

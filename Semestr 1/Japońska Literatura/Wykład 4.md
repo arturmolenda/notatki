@@ -75,7 +75,7 @@ makurakotoba - coś w stylu przydawek w wierszach, służy jako dodatkowe opisy/
 - rozwój kronikarstwa historycznego
 - narodziny zbiorów krótkich opowieści i baśni setsuwa
 
-kiedy powstało pismo Chińskie? między 8 i 10 wiekiem = 9 wiek / połowa 9 wieku
+kiedy powstało pismo Japońskie? między 8 i 10 wiekiem = 9 wiek / połowa 9 wieku
 10 - wszystko zapisywane w wanbunie
 8 wiek - ?
 
@@ -100,7 +100,7 @@ kiedy powstało pismo Chińskie? między 8 i 10 wiekiem = 9 wiek / połowa 9 wie
 
 ### Odwołania do poetyki chińskiej
 
-- Keikokushuu (Zbiór [wierczy] o rządzeniu kraje, 827r.) - antologia powstała z polecenia cesarza Junny
+- Keikokushuu (Zbiór [wierszy] o rządzeniu kraje, 827r.) - antologia powstała z polecenia cesarza Junny
 *cnoty konfucjańskie znaczenia rytuałów i kultury, zachowania mędrca i wiernego urzędnika, różnice ideologiczne między ideologią konfucjańską i taoistyczną (informacje niezbędne do zrozumienia w jaki sposób i jakiego rodzaju wiedza i kompetencje były wymagane od urzędników)*
 
 - aluzja do słynnej maksymy "rządzić krajem za pomocą literatury" (wen zhang jing guo autorstwa Cao Pi (187-226); oryginalny tekst:

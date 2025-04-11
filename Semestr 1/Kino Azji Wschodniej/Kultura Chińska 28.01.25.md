@@ -31,7 +31,7 @@ Pytania dotyczące filmów:
 	- 2-3 prace opisać 
 7.  Zwyczaje pogrzebowe
 	- na zajęciach
-	- to co w filmach (najczystszy jest popiół)
+	- to co w filmach (najczystzy jest popiół)
 8. Współczesne malarstwo chińskie
 	 - napisać 2-3 nazwiska i opisać to malarstwo
 	 - artykuł
@@ -42,3 +42,29 @@ Pytania dotyczące filmów:
 	- malarstwo
 	- plac Tiananmen
 	- pop art
+
+
+
+
+
+11. ***"Legenda o Czerwonej Latarni" (红灯记, opera pekińska)*** – Opowiada o rodzinie rewolucjonistów, która ryzykuje życie, przekazując tajne informacje partyzanckie podczas japońskiej okupacji Chin. 
+12. ***"Czerwona kompania kobieca" (红色娘子军, balet)*** – Historia kobiecego oddziału partyzanckiego walczącego z feudalnym despotą na wyspie Hainan. 
+13. ***"Dziewczyna o białych włosach" (白毛女, balet)*** – Dramat o chłopce uciekającej przed okrutnym właścicielem ziemskim, która po latach ukrywania się zostaje wybawiona przez partyzantów komunistycznych. 
+
+
+
+
+
+
+
+
+
+
+
+
+14. ***"Shajiabang" (沙家浜, opera pekińska)*** – Historia wdowy wspierającej rannych żołnierzy Armii Czerwonej, ukrywając ich przed wojskami Kuomintangu. 3. ***"Zdobycie Tygrysiej Góry podstępem" (智取威虎山, opera pekińska)*** – Ukazuje infiltrację bandy watażków przez komunistycznego żołnierza, który sprytem pomaga wyzwolić górski rejon. 4. ***"Atak na Biały Pułk Tygrysa" (奇袭白虎团, opera pekińska)*** – Przedstawia zwycięską bitwę Chińskiej Armii Ludowo-Wyzwoleńczej przeciwko oddziałom południowokoreańskim wspieranym przez USA podczas wojny koreańskiej. 5. ***"W Porcie" (海港, opera pekińska)*** – Opowieść o pracownikach portowych, którzy walczą z kontrrewolucyjnymi sabotażystami, wspierając idee maoistowskiego socjalizmu. 
+15. ***"Czerwona kompania kobieca" (红色娘子军, balet)*** – Historia kobiecego oddziału partyzanckiego walczącego z feudalnym despotą na wyspie Hainan. 
+16. ***"Dziewczyna o białych włosach" (白毛女, balet)*** – Dramat o chłopce uciekającej przed okrutnym właścicielem ziemskim, która po latach ukrywania się zostaje wybawiona przez partyzantów komunistycznych. 
+
+
+17. ***"Shajiabang – Symfonia"*** – Orkiestrowa wersja opery „Shajiabang”, wzmacniająca propagandowy wydźwięk poprzez muzykę symfoniczną.

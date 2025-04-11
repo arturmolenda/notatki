@@ -42,7 +42,7 @@ estetyka japońska  (słowa i obrazy) - książka
 
 <font color="#ffc000">Pieśni japońskie</font> <font color="#00b0f0">wyrastają z nasienia serc ludzkich</font> i wypuszczają tysiące liści-słów [...]
 
-Pieni japońskie - pierwszy raz nazwanie twórczości japońskiej
+Pieśni japońskie - pierwszy raz nazwanie twórczości japońskiej
 
 
 - kunsztowna metafora poezji jako rośliny, której podstawą jest **koto-no-ha** (liście słów - poezja waka)

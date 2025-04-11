@@ -16,12 +16,18 @@
 | せつめいする wyjaśniać            | せつめいできる       | せつめいしよう       | せつめいしたら             | せつめいすれば           |
 | おすnaciskac                  | おせる           | おそう           | おしたら                | おせば               |
 | かうkupić                     | かえる           | かおう           | 買ったら                | かえば               |
+<<<<<<< HEAD
+| RU ALE NIE RU               |               |               |                     |                   |
+=======
 | zzzzz                       |               |               |                     |                   |
+>>>>>>> 3ff28415f76d0e7aa11af0db3b592d6320f31b0b
 | かえる wracać                  | かえれる          | かえろう          | かえったら               | かえれば              |
 | きる– ciąć                    | きれる           | きろう           | きったら                | きれば               |
 | しる– wiedzieć                | しれる           | しろう           | しったら                | しれば               |
 | はしる– biegać                 | はしれる          | はしろう          | はしったら               | はしれば              |
 | はいる- wchodzić               | はいれる          | はいろう          | はいったら               | はいれば              |
+<<<<<<< HEAD
+=======
 集める
 てしまう - czynność wykonana do końca lub niecelowo (+żal)
 ほんをよんでしまいました - przeczytalem cala ksiazke.
@@ -46,6 +52,7 @@ Tanaka śpiewając robi pranie.
 たなかさんは今留学中だそうです。- slyszalem ze tanaka jest teraz na wymianie
 
 くつをぬがなくてもいいです - nie musisz zdejmowac butow
+>>>>>>> 3ff28415f76d0e7aa11af0db3b592d6320f31b0b
 
 Pan Tanaka ma tylko 3 komputery –
 
@@ -105,7 +112,12 @@ Moja przyjaciółka posprzątała dla mnie mieszkanie.
 
 むし – robak insekt
 
+<<<<<<< HEAD
+![Obraz zawierający tekst, zrzut ekranu, Czcionka, menu
+Zawartość wygenerowana przez sztuczną inteligencję może być niepoprawna.](file:///C:/Users/nelio/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+=======
 ![image](https://github.com/user-attachments/assets/030ee2fc-a531-4039-9c96-aea6e6c7c5e9)
 
 ![image](https://github.com/user-attachments/assets/0216bbec-049d-4a7f-a422-5f7b70464152)
 
+>>>>>>> 3ff28415f76d0e7aa11af0db3b592d6320f31b0b

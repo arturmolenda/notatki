@@ -46,7 +46,7 @@ Melanowicz historia literatury japońskiej
 
 - Przekazy o kraju Wa - część kroniki Trzech Królestw, kroniki chińskiej dynastii Wei spisany w okresie ok. 280-297 r. Jedno z najstarszych źródeł historycznych dotyczących Japonii
 - Wzmianki o kraju Wa, które miało się składać z 30 państewek plemiennych i hegemonem było Yamatai
-- Himiko (187? - ok 248) - Pierwsza historyczna Władczyny (królowa) Japoni
+- Himiko (187? - ok 248) - Pierwsza historyczna Władczyni (królowa) Japonii
 
 
 ### Pismo Chińskie w Japonii
