@@ -38,7 +38,7 @@ Konkretne zjawisko opisane na empirycznie dostępnym przykładzie (materiały ź
    Bazowanie na literaturze przedmiotu (akademickie standardy pisania)
 
 
-Temat Pracy
+ Przykładowy Temat Pracy
 
 - Kontekst merytoryczny: o jakim zjawisku będę pisał/a?
 	  konstrukcja płci w medialnym wizerunku davida bowiego

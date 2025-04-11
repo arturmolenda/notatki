@@ -101,15 +101,15 @@
 
 
 - utwór jest napisany w stylu wakan konkōbun; wykorzystuje paralelne konstrukcje fraz wskazujące na wpływ języka chińskiego;
-- powtarzające się używanie uwcześnieniń, np. "piana" wezbrana na zakolach to znika, to się znów gromadzi", "rankiem umierają, wieczorem się rodzą"; wskazywanie na gwałtowność zmian i niepewność ładu w przyrodzie i pośród dzieł ludzkich
+- powtarzające się używanie uwcześnień, np. "piana" wezbrana na zakolach to znika, to się znów gromadzi", "rankiem umierają, wieczorem się rodzą"; wskazywanie na gwałtowność zmian i niepewność ładu w przyrodzie i pośród dzieł ludzkich
 - początkowy passus funkcjonuje jako wskazanie na nietrwałość; 
 
 
 #### Hōjōki (Zapiski z szałasu) Podsumowanie
 
-- utwór jest wswego rodzaju odpowiedzią na doświadczenie najróżniejszych klęsk żywiołowych, które nmiały miejsce szczególnie pod koniec XII wieku m.in. wielki pożar 1177, trąba powietrzna 1180, klęska głodu 1181, 1182, trzęsienie ziemi 1185 - to dowód na niemożnosć polegania na tym, co nas otacza
+- utwór jest swego rodzaju odpowiedzią na doświadczenie najróżniejszych klęsk żywiołowych, które miały miejsce szczególnie pod koniec XII wieku m.in. wielki pożar 1177, trąba powietrzna 1180, klęska głodu 1181, 1182, trzęsienie ziemi 1185 - to dowód na niemożność polegania na tym, co nas otacza
 - zniszczenie domostwa jako symbol ludzkiej marności i ulotności
-- jest to autobiograficzny szkic ukazujący okoliczności, które zmusiły Kamo no Chōmei do "ucieczki z doczesnego świata", ale także utwór przedstawiający piękno przyrody ówczesnej Kaponii.
+- jest to autobiograficzny szkic ukazujący okoliczności, które zmusiły Kamo no Chōmei do "ucieczki z doczesnego świata", ale także utwór przedstawiający piękno przyrody ówczesnej Japonii.
 
 
 
@@ -118,3 +118,44 @@
 - zbiór 243 zuihitsu - szkiców o długości jednego zadania do kilku stron, który powstawał w latach 1329-1331 (czas zamieszek; rewolta cesarza Godaigo przeciwko klanowi Hōjō; w 1333 nastąpiło całkowite rozbicie tego rodu)
 - auto to **Yoshida Kenkō** (1283-1352), zwany jako **Kenkō hōshi**
 - Tsurezuregusa to zbiór szkiców dobranych na zasadzie skojarzeń i przeciwieństw, przypominających metodę komponowania renga; eseje są poświęcone tematyce buddyjskiej, poezji, różnym wydarzeniom, przyroda i in.
+
+- Kenkō hōshi pochodzi z rodu kapłanów shintō; w młodości służył na dworze cesarze Gonijō 1285-1308 by jednak niezadowolony ze swojego życia, co pchnęło go do decyzji o porzuceniu dotychczasowego świata
+- w 1313 r. przyjął tonsurę na górze Hiei i spędził tam kilka lat, nim powrócił do Kioto
+- jako poeta należał do konserwatywnej szkoły Nijō, której twórcą był Nijō Yoshimoto, jeden z twórców i krytyków renga Kenkō został uznany przez niego za jednego z 3 najwybitniejszych poetów połowy XIV w. okresu Teiwa
+- większość swojego życia Kenkō hōshi spędził w stolicy; był chwiejny politycznie i zmieniał swoje poparcie względem rządzących; po Godaigo w 1336 r. poparł Ashikagów
+- część czasu spędził w Kantō (wschód Japonii), co znalazło odbicie w wieli szkicach Tsurezuregusa osadzonych w tamtym regionie Japonii
+
+#### // Kontynuacja tego samego tematy, ale to już wykład 5 
+
+- Kenkō w Tsurezuregusa notuje głównie refleksje wypływające z doświadczenia życiowego, ostrzej też widzi dziejące się wokół niego zdarzenia; jest przekonany, że świat staje się coraz gorszy, że jest to pisanie w czasach upadku Prawa (mappō), kiedy nie ma już nadziei na ocalenie:
+ > 	Mówi się o upadku, ostatnich czasach, więc jak wspaniała wydaje się teraz dawna    atmosfera, nieskażona światem, która wciąż trwa pośród pałacowych murów...
+- stare tradycje odzwierciedlają degenerację czasów
+- Kenkō nie był pustelnikiem w stylu Kamo no Chōmeia i był bardziej zaangażowany w życie publiczne, aby zmienić je na kompletny erem; nie zapomniał przy tym o idei nietrwałości, gdyż opisuje przyjemne miejsce do życia, aniżeli jego efemeryczną naturę.
+
+
+- formułowane przez Kenkō upodobania estetyczne: wskazanie na próżność dekorowanych przesadnie domostw -> któż może żyć na długo w takich miejscach?
+- prostota jako estetyczny ideał podnoszony w Tsurezuregusa; upodobanie do nieregularności (postrzegana jako cecha widoczna w japońskiej kulturze od czasów najdawniejszych, np. w waka, malarstwie)
+- popieranie sugestii jako przeciwieństwo wzniosłych wyrażeń (sugestia może przekonać bardziej niż to, co się widzi)
+- upodobanie "początków" i "końców" -> mogą ewokować więcej rzeczy niż centralne doświadczenie
+
+
+- zbliżenie idei religijnych i estetyki w twierdzeniu, że "nietrwałość jest zasadniczym elementem piękna"
+> Jeśli człek nie zginąłby niczym rosa na równinie Adashi,
+> gdyby jego prochy nie zostały rozwiane z dymem nad Toribe,
+> a więc miałby żyć wiecznie, czyż nie byłoby to smutne i żałosne?
+
+rozważania o egzystencji ludzkiej -
+
+
+- stosunku do ludzi Kenkoo przyjmuje postawę "człowieka stolicy" (miyakobito), ponieważ traktuje raczej pogardliwie ludzi pozbawionych ogłady; stwierdza wyraźnie, że dobrzy ludzie żyją w stolicy, a źli na wsi
+- autor akceptuje indywidulaną wolność jednostki, różnorodność ludzkich postaw i prawo do własnego sposobu życia.
+
+### Twórczość pisarzy-eremitów, a idea niestałości wszechrzeczy
+
+- mujoo to jeden z podstawowych buddyjskich terminów teologicznych, który oznacza 'nietrwałość', 'niestałość', skończoność wszystkich bytów, uwikłanie się w niekończące się inkarnacje
+- pierwsze wystąpienia w literaturze japońskiej już w Man'yooshu
+
+- również pochodzące z okresu Heian znany poemat Iroha odwołuje się do koncepcji mujoo `Irohauta` - każda sylaba japońska (w hiraganie) jest użyta jeden raz w poemacie.
+**Irohauta**
+
+- znany wstęp do Heike monogatari jeszcze dosadniej mówi, czym jest mujoo: -> "cokolwiek rozkwita, niezawodnie szczeźnie" (joosha hissui)
