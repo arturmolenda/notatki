@@ -34,7 +34,7 @@
 - Liu Xiang, Yiwenzhi (Monografia literatury), będącą częścią Han shu yiwenzhi
 	- klasyfikacja sześciu "gatunków" dzieł
 	- dowodzi, że w czasach dynastii Han nie istniało jeszcze w krytyce chińskiej pojęcie gatunki literackie, jednak pojawia się świadomość kanonu i form charakterystycznych dla poszczególnych gatunków
-- Cao Pi, lUNWEN (rOZPRAWA O LITERATURZE)
+- Cao Pi, lUNWEN (rozprawa O LITERATURZE)
 	- literatura utylitarna, pełni społeczną rolę
 	- wyróżnił siedem gatunków literackich, grupując je według czterech stylów
 - Lu Ji, Wen fu
