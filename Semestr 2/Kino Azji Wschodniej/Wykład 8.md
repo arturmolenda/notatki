@@ -17,7 +17,7 @@
 #### Teza 2:
 
 - **Pierwsze pokazy filmowe w Korei związane z powstaniem pierwszego kina w kraju, które zostało otwarte w roku 1903**
-- W roku 1907 powstaje w Seulu teatr Danseong-sa. Projekcie filmów zagranicznych ("Złamana lilia", "Męczennica miłości", "Nibelungi") poprzedziły prezentacje koreańskich produkcji
+- W roku 1907 powstaje w Seulu teatr Danseong-sa. Projekcje filmów zagranicznych ("Złamana lilia", "Męczennica miłości", "Nibelungi") poprzedziły prezentacje koreańskich produkcji
 
 ### Pierwszy film o Korei
 
@@ -25,7 +25,7 @@
 
 ### Początki - wizualna hybryda
 
-- **Kino-dramaty** - aktorzy występujący na tle eranu filmowego, na którym wyświetlano ruchome plenery: pejzaże, wizerunki miast i ulic etc.
+- **Kino-dramaty** - aktorzy występujący na tle ekranu filmowego, na którym wyświetlano ruchome plenery: pejzaże, wizerunki miast i ulic etc.
 - **Kim Do-san** najsłynniejszy twórca kino-dramatów
 
 ### Pierwszy pokaz

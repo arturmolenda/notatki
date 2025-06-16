@@ -1,5 +1,6 @@
 
-
+// to jest raczej wykład 6 i kolejne wszystkie powinny mieć -1, bo chyba coś źle wpisałem
+// ale nie chcę mi się zmieniać wszystkich
 # Ōshima, Imamura, Gosa
 
 
