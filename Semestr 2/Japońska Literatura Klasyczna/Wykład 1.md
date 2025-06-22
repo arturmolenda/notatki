@@ -91,3 +91,14 @@ Czym jest Zwierciadło? - miało pokazywać życie cesarza (?)
 O kagami powstało początek XI w. - rozległość wydarzeń podobna jak w Eiga, trochę krótsze. 
 1.5 w. jest ukazane w wydarzeniach. Po języku widać, że nie pisała tego kobieta. Tekst ma charakter dialogiczny - dialog między młodym samurajem i dwoma starcami.
 samuraj nie wie dużo o świecie, więc zadaje starym pytania o przeszłość. Którzy są mędrcami i mają po 170, 180 lat i pamiętają wszystkie wydarzenia. Inne możliwe tytuły Yotsugi Okagami, Yotsugi monogatari?
+
+Shikyo - 4 zwierciadła Ōkagami - Duże zwierciadło
+
+- koncepcją jest to aby pokazywać to co jest, było i co będzie
+- powstało na początku wieku XI
+- ukazane od IX do XI wieku
+- podzielone na 6 rozdziałów
+- nie pisała kobieta
+- tekst który ma charakter dialogiczny, pojawiają się pytania i odpowiedzi na te pytania
+- dialog między młodym samurajem a dwoma starcami (mędrcami co żyli po 170-180 lat)
+- nie ma tylko jednego tytułu na przykład: Yōtsugi monogatari

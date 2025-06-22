@@ -84,13 +84,13 @@ zaangażowanie Chin w działania wojenne na Półwyspie Koreańskim doprowadza d
 -  **Biograficzny wzorzec Great Mana**
 
 
- Kim Ir Sen inspurej modzież - intensywna agitacja młodychludzi
+ Kim Ir Sen inspiruje młodzież - intensywna agitacja młodych ludzi
  - Kim Ir Sen - idol młodzieży 
- - Młodzi ludzie jako bohateroaiwe pilmów
+ - Młodzi ludzie jako bohaterowie filmów
  ### - Młodość, wiara w komunizm i patros]]
 
 
-### Pięciu vraki partyzant
+### Pięciu braci partyzantów
 - 1968r; reż Choe Ik Gyu/Kyu
 
 
@@ -108,7 +108,7 @@ Melodramat
 - Jedyny profesjonalny reżyser w Korei Północnej
 - Stały współpracownik Kim Ir Sena
 - Szef Koreańskiego Studia filmowego
-- Szef sekcji filmowej. Departamentu Propagandy i Agitafji
+- Szef sekcji filmowej. Departamentu Propagandy i Agitacji
 - Reżyser "Morza krwi" 1968 r. i kwiaciarki 1972 - oba filmy zrealizowane na podstawie oper rewolucyjnych
 ### Koreańska opera rewolucyjna
 
@@ -139,7 +139,7 @@ Melodramat
 
 - 1972 r., reż. Cho Ik Gyu
 
-- film zrealizowany na podstawie opery rewolucyjnej o tym samym wrurule, Twórcą opary był podobno sam KIm Ir Sen
+- film zrealizowany na podstawie opery rewolucyjnej o tym samym tytule, Twórcą opery był podobno sam KIm Ir Sen
 - Nagroda na festiwalu w Karlowych Warach w 1972 r.
 - Wizerunek aktorki grającej główną rolę trafia na koreański banknot
 

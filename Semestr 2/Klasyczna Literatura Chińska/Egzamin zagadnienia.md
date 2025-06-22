@@ -3,7 +3,7 @@
 #### Egzamin 20.06 09:00 sala 311
 Termin poprawkowy 09.09 09:00 sala 309
 
-o daty nie będzie pytać, ale trzeba kojarzyć okres historyczny
+o daty nie  pytać, ale trzeba kojarzyć okres historyczny
 
 test wyboru abcd/łączenie elementów
 
@@ -40,7 +40,7 @@ dopasowanie
 "dzieło ... napisane przez Sima Qian jest ..."
 
 ###### Pytania na część:
-1 - 30 (? nie jestem pewny czy dobrze usłyszałem)
+1 - 30
 2 - 10
 3 - 10
 
@@ -61,16 +61,17 @@ Jaka autorka napisała powieść o "prawniczce coś tam coś tam..."?
 
 Gatunki i formy literackie - umieć przypisać do okresu
 
+formy gatunkowe, czym są i w jakiej epoce powstawały - jedna z najważniejszych rzeczy
 
+
+teksty nie, to co wysyłała, ale może ogólna wiedza + kojarzenie fabuły, np co to jest mulan
 
 61% zaliczenie jak w usosie
 
 
 
-teksty nie, to co wysyłała, ale może ogólna wiedza + kojarzenie fabuły, np co to jest mulan
 
 
 
 
 
-formy gatunkowe, czym są i w jakiej epoce powstawały - jedna z najważniejszych rzeczy

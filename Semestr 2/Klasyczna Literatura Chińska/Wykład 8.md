@@ -80,7 +80,7 @@ został podbity i uwięziony przez Song
 
 *Yu Mei Ren* - ważniejszy tytuł
 
-##### Li Qungzhao
+##### Li Qingzhao
 
 Jedna z najwybitniejszych poetek Chin (ogólnie, nie tylko okresu Song)
  - refleksja nad przemijaniem + emocjonalność + duża elegancja
@@ -98,8 +98,7 @@ wzór dla chińskich poetek
 
 uczony z dynastii Song. znany jako: "uczony, "
 brał udział w prozie 8 wielkich mistrzów prozy Tang i Song.
-B
-ył też politykiem i głównie krytykiem społecznhm
+Był też politykiem i głównie krytykiem społecznhm
 poezja, proza, historiaografia
 
 

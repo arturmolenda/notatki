@@ -5,7 +5,7 @@ Nowe tematy, nowa estetyka
 
 #### Piąta generacji
 
-- Twórczy, którzy już po rewolucji kulturalnej podjęli studia na wydziale filmowym w roku 1978
+- Twórcy, którzy już po rewolucji kulturalnej podjęli studia na wydziale filmowym w roku 1978
 - "W 1984 roku urząd ds. Filmu przeszedł spod Ministerstwa Kultury pod zarząd Ministerstwa ds. Radia, Filmu i Telewizji - mniej rygorystycznego, ale wciąż sprawującego kontrolę ideologiczną nad realizowanymi projektami". P. Kletowski
 
 

@@ -113,7 +113,7 @@
 ### Kobiety - gwiazdy
 
 - Ruan Lingyu - chińska Marilyn Monroe
-Karierze filmową rozpoczęła w wieku 16 lat
+Kariere filmową rozpoczęła w wieku 16 lat
 
 filmy:
 "New Woman" 1934

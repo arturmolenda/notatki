@@ -1,119 +1,114 @@
 
-## Literatura Okresu dynastii Tang
+## Dynastia Han
 
-[zapamiętać po jednym przykładzie wiersza dla okresów i poetów]
+Poemat opisowy (fu) - rozbudowane bogate opisy, natury, nas samych, egzystencjalne, dotyczące wojen też się pojawiały. Głównie były po to aby wychwalać przyrodę, przedmioty, miejsca (krajobrazy, związane z wydarzeniami historycznymi)
 
-**poezja:**
-lushi - wiersz regulowany
-jueju - wiersz ucięty
+Charakterystyczne elementy: Metafory i symbolika, bogactwo słowne/językowe (przepych słowny), ale zawiera dużo estetyki. Porządek narracyjny jest zachowany, poematy mają swoją strukturę. 
 
-
-
-Okres wczesny i złoty -> okres średni -> okres późny
-
-teksty bianwen i chuanqi
+Przykłady: 
+- Fu - O wielkim mieście, 
+- Fu - O parku Shanglin
+(opisywanie miejsc - piękna, bogactwa, parku, wydarzeń jakie tam miały miejsce)
 
 
-bianwen - teksty o charakterze religijnym często związane z buddyzmem
+##### Poematy Gushi
 
-chuanqi - teksty fantastyczne
+Nie tłumaczymy na język polski jako poemat, ale częściej, jako historia/wiersz 
+(dosłownie - stare wiersze)
 
+Swoboda literacka widoczna w wierszach, język był prostszy - nie aż tak bogaty jak w *Fu* miały szczerze oddawać nastrój autora i przez to poruszać emocjonalnie odbiorcę. Główną tematyką było życie codzienne, rozterki miłosne, problemy społeczne. Nie opisowo kwestii wydarzeń itp., ale kwestie tego jak się czujemy, jakie mamy życie, problemy itp.
 
+Przykłady:
+- Nie ma - okres panowania dynastii Han, mówimy o Gushi jak o zbiorze, w którym wiersze są anonimowe - zbiór podań, wierszy ludowych, ale bez wskazania autora
 
-lushi - ukształtowana w VII wieku, tekst regulowany, jedna z najbardziej klasycznych form poezji chińskiej, popularna w czasie dynastii Tang,
-cechy (za każdym razem takie same):
-- 8 wersów 
-- każdy o 5 lub 7 znakach
-- rymy występują tylko na parzystych wersach i pozostają niezmienne w całym utworze
-- struktura symetryczna (paralelna)
-- tonalność jest regulowana (wiersz musi zachować odpowiedni układ tonów wznoszących i opadających)
+#### Wiersze Yuefu
 
-przykłady:
-- Li Bai - wspinając się na taras feniksa w Nankinie
-- Du Fu - jesienne myśli
-- Wang Wei - wiosenny poranek
+Zbiór pieśni ludowych. Były zbierane 
+Cechy charakterystyczne: życie społeczne, obrzędy rytuały dotyczące naszego życia: - urodziny, śmierć, wojna, miłość - 
 
-Jueju - (wczesny okres panowania dynastii Tang) skrócona wersja wiersza regulowanego (lushi), krótsza wersja:
-- 4 wersy
-- o 5 lub 7 znakach
-- rymy na parzystych wersach
-- częste kontrasty między emocjami, a obrazami (naturą)
-- jest bardziej syntetyczny (poeta daje założenie, aby w krótki zwięzły sposób przekazać jak najwięcej emocji w swojej poezji)
+Były proste, żeby mogły być przekazywane dalej i z pokolenia na pokolenie. W większości są anonimowe.
 
-przykłady:
-- Meng Hauran (największy przedstawiciel) 
-  tematyka - krajobraz, pejzaż, natura, samotność, przemijanie, życie wiejskie
-  styl - prosty, skupianie się na głębokiej emocjonalności
-  nie skupia się na buddyzmie, ale na konfucjanizmie, taoizmie
-
-- Wiosenny poranek 
-- Nocleg na rzece Jiande
+Przykłady:
+- Pieśń o wielkim żalu
+- Pieśń o żołnierzu
+(tytuły były nadawane później, nie trzeba pamiętać tytułów)
 
 
+## Twórczość rodu Cao
 
-#### Złoty okres VIII wiek
+Przedstawiciele:
+- Cao Cao (po trupach do celu "Krótkie pieśni" jego dzieło, przemyślenia na temat życia i śmierci)
+- Cao Zhi (Młodszy brak Cao Pi, uważany za jednego z najwybitniejszych poetów swojej epoki, "bohaterka Luo" - mistycyzm, odwołanie do tradycji ludowych, zapoczątkował literaturę miłosną)
+- Cao Pi - Pierwszy cesarz dynastii Wei - esej dyskusje o literaturze
 
-Czas największego rozkwitu w chińskiej poezji. Kształtuje się styl i tematyka poezji chińskiej. Najważniejszy okres dla poezji.
+Działali zgodnie ze stylem *jian'an* styl powszechny w tym okresie. Często związany z wojną, troska o losy państwa, refleksja nad ludzką egzystencją. Prostota i surowość. Forma dotyczy mocno osobistych doświadczeń.
 
-(chronologicznie)
-1. Wang Wei - mistrz poezji pejzażowej, był również malarzem - wpływ na twórczość. Minimalizm, pejzaż jako aspekt wizualny w wierszach i metafora - natura ma być odbiciem ludzkich emocji. Był też muzykiem - charakterystyczna tonalność. Pochodził z bogatej rodziny, w dzieciństwie zdał egzamin urzędniczy
-   przykłady:
-   - w pustelni w górach Wangchuan
-   - jesienny wieczór w górach
-   - Przystań na rzece Wangchuan 
-1. Li Bai - poeta o niesamowitej wyobraźni, odwoływał się do taoizmu, był bardzo ekspresyjny, od dziecka wykazywał duży talent artystyczny, poetycki, literacki. Edukacja skupiała się na tekstach taoistycznych i klasycznych (konfucjańskich). W wieku 25 lat zaczął podróżować po Chinach. Posiadał funkcję urzędniczą - był doradcą cesarza. Uwielbiał wino. bogata metaforyka. Był na wygnaniu.
-   przykłady:
-   - Myśli pośród milczącej nocy
-   - Opuszczając miasto Baidi o świcie
-   - Najlepsze wino i księżyc
-1. Du Fu - przedstawiciel realista - dużo realizmu, troska o los zwykłych ludzi, widoczna refleksja nad losem i społeczeństwem oraz polityką. Urodzony w rodzinie konfucjańskiej - wpływ na twórczość. Też podróżował po Chinach, nie zdał egzaminu urzędniczego. Inspirował się Li Bai'em. Pracował jako cenzor na dworze cesarskim. Ostatnie lata życia spędził w podróży. Zmarł na łodzi. Napisał ponad 1400 wierszy głównie skupiał się nad losem ludzi. 
-   realizm odniesienie do losu człowieka, biedy, cierpienia | polityczna refleksja, niesprawiedliwość społeczna
-   przykłady:
-   - ballada o wozach wojennych
-   - jesień na rzece
-   - wspinając się na taras
+Wpływy:
+- konfucjanizm
+- taoizm
+
+## Siedmiu Poetów okresu jian'an
 
 
-### Twórczość poetów okresu średniego  (VIII/IX wiek)
+1. Kong Rong (Jeden z największych poetów, elokwentny, krytykował politykę i społeczeństwo, stracony przez Cao Cao)
+2. <font color="#b8cce4">Wang Can</font> (Poemat o siedmiu smutkach - uważany za jedno z największych dzieł okresu, Opisuje panujący chaos, upadek dynastii Han, przejmowanie władzy, kontemplacja / motywacja nad znaczeniem wojny - czy ma sens, jaki ma wpływ itp.)
+3. Chen Lin (wyrażanie tęsknoty za pokojem społecznym podczas wojny)
+4. Xu Gan
+5. Ruan Yu (poeta z subtelnymi odniesieniami do filozfii i natury)
+6. Xing Chang (Przemyślenia o )
+7. Liu Zhen (Przemyślenia o życu w czasie chaosu)
+
+Grupa poetów, która tworzyła dynastię Han
+Charakterystyczne dla ich twórczości: Państwo i Polityka - powiązanie z rodem Ca
 
 
-Bai Juyi - poezja narracyjna - charakter dydaktyczny i społeczny. Pochodził z rodziny konfucjańskiej, od młodości wykazywał talent literacki, odbierał edukację klasyczną, zdał egzamin urzędniczy - pracował w cesarskiej bibliotece. Pracował później w akademii Hanlin. Został zesłany na banicję w wyniku rebelii. Był prefektem miasta Luoyang. Napisał ponad 3000 wierszy - byl jednym z najbardziej płodnych poetów dynastii Tang. 
-realizm i prostota, wiersze łatwe do zrozumienia, tematyka społeczna, tduności, niesprawiedliwości społecznej, wiersz narracyjny 
-przykłady:
-- pieśń nieustającego żalu
-- pieśń grającego na lutni
-- nowe poezje Yefu (zbiór utworów o życiu społecznym)
+
+### Bambusowy gaj
+
+Bambusowy gaj - powiązany z taoizmem, siedmiu mędrców - skupiali się na taoistycznym podejściu do życia, odnosiło się do filozofii taoizmu i podejściu do natury. Byli to poeci, ale przede wszystkim filozofowie
+
+- Xi Kang (Jeden z najważniejszych poetów tej grupy, był wybitnym filozofem, znany ze swojej niezależności i krytyki konfucjanizmu. Pieśń o smutku - dzieło pełnej refleksji nad życiem i naturą - *Pieśń o smutku*)
+- Ruan Ji - (Melancholia, klasyka literatury taoistycznej - biografia *Pana wielkiego człowieka*) odzwierciedla taoistyczne podejście do życia - główny cel - krytyka Konfucjanizmu. Podążanie za normami społecznymi to odrzucanie siebie, ograniczanie swobody, jest symbolem niezależności - przedstawia duchową wolność po stronie jednostki. 
+- Liu Ling - twórczość w duchu natury i . odrzucanie tradycyjnych wartości konfucjańskich.
+qing tan - filozoficzne dyskusje, niezależne, wolne od ograniczeń - można było poruszać wszystkie tematy polityczne czy kontrowersyjne.
+(Reszta poetów jest mniej istotna)
+- Xioug Xiii
+- Wang Rong
+- Shan Tao
 
 
-### Twórczość poetów okresu późnego (IX wiek)
 
-Li Shangyin - dużo aluzyjności i symbolizmu w twórczości, dużo melancholii. Urodził się w rodzinie urzędniczej, zdobył klasyczne doświadczenie, zdał urzędniczy egzamin cesarski, pracował w administracji cesarskiej w różnych prowincjach.  Napisał około 600 wierszy. Mistrz prozy paralelnej
-stosował ją w pismach urzędowych i swoich wierszach.
-przykłady:
-- Parasol z brokatu
-- nocny deszcz w górach Ba
-- Zachód słońca na wzgórzu Leyou
-
-
-### Proza klasyczna
-
-
-Dwóch wybitnych pisarzy:
-1. VIII - IX wiek Han Yu (mocno sprzeciwiał się przesadnie ozdobnemu stylowi (pianwen)) Był prekursorem stylu bezpośredniego, był zaangażowany w propagowanie konfucjanizmu, prostota i klarowność, charakter dydaktyczny i moralizatorski. Krytykował buddyzm i taoizm. 
-
-przykłady:
-- o wypędzeniu buddyjskich religii
-  tematyka dotycząca krytyki wpływu buddyzmu na cesarstwo, uważał, że buddyzm jest obcy i nie powinien być propagowany w odróżnieniu od konfucjanizmu.
-- listy do Li Gou
-  znaczenie edukacyjne i moralizatorskie - konfucjańskie wartości jako fundament stabilnego państwa. jego esej był szeroko cytowany przez późniejszych uczonych
+Cai Wenji - początki feminizmu, w twórczości dużo odniesień do roli kobiety. Była córką kaligrafa
+Twórczość pełna smutku, żalu i refleksji. Była w niewoli przez 10 lat.
+Później jest przedstawicielką dynastii Han
+- smutek i tęsknota
+- pieśń *o żalu (za ojczyzną)* opisuje swoje doświadczenia podczas wygnania'=
+- Tragiczne kosy kobiet - jaka jest rola kobiety w społeczeństwie patriarchalnym. Podnosi te tematy po raz pierwszy w Chinach.
+- narracja - mówi o sobie, doświadczeniach, traumie itp.
+- mistrzyni języka i rytmu, finezyjne i rytmiczne słownictwo. Elegancja, precyzja przejawia się w jej twórczości.
+- Wykorzystywała też tradycyjne formy literackie - pięcioznakowe wersy
 
 
-2. Liu Zongyuan - był pisarzem, urzędnikiem - został wygnany ze względów politycznych. Odwoływał się do natury i myśli konfucjańskiej. Cechy: eseje filozoficzne, głębokie rozważania nad społeczeństwem i polityką, opisy krajobrazów, aspekty podróżnicze (dużo podróżował), przypowieści - alegoryczne opowieści
-najważniejsze teksty:
-- opłakiwanie utopionego
-- lament nad życiem 
-- osiem esejów z Yongzhou - zbiór opisów krajobrazów i refleksji nad wygnaniem.
+### Zbiór z pawilonu Orchidei 
 
-We dwóch odegrali kluczową rolę w rewolucji stylu pisarskiego - która miała wpływ na twórców kolejnej epoki Song
+antologia poezji i prozy. nazwa zbioru powiązana z miejscem spotkania - poeci spotykali się w pawilonie Orchidei. Spotkali się w dzień oczyszczania - dzisiaj święto zmarłych
+Filozofowie, literaci - zorganizowali takie spotkanie o temacie literaturoznawczych i innych np. politycznych, pięknie przyrody itp.
+Największy przedstawiciel spotkania - Wang Xizhi miał wpływ na powstanie tego zbioru. Nie był wybitnym poetą, ale był wybitnym kaligrafem, napisał wstęp do zbioru. Wstęp jest jednym z największych dzieł kaligraficznych. 
 
+Opisuje spotkanie, kontrastując je z pięknem przyrody, pojawia się również refleksja nad życiem. Napisane w prozie rytmicznej
+[zapamiętać przedmowę Wang Xizhi]
+
+zbiór różnych poematów z tego spotkania, ale też z przed i po.
+Celebracja przyjaźni - hołd dla przyjaźni/wspólnoty
+
+
+#### Tao Yuanming
+
+jest to jeden z pierwszych poetów pejzażowych. W swoich dziełach celebrował prostotę życia na wsi. 
+
+Teoria literatury - Cao Pi
+
+Xie Lingyun - postać związana z poematem pejzażowym. Kontynuuje Tao Yuanminga - idzie w tematykę ogólnie swobody i opisywania przyrody, jak swoboda życia może wyglądać żyjąc w harmonii z przyrodą. [Mniej ważny ]
+
+Poemat Mulan - podanie ludowe, które ewoluowało do poematu i zostało spisane. Stało się symbolem odwagi i poświęcenia - życie w zgodzie z ideą konfucjanizmu, ideami, przodkami itp.
 
