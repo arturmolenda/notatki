@@ -22,7 +22,7 @@ Imię Yotsugi oznacza dosłownie "kontynuator świata" stąd też tytuł Yotsugi
 
 ### "Zwierciadła historii" Mizukagami
 
-- Obejmuje okres od legendanego cesarza Jimmu aż to cesarza Ninmyō; spisywane pomiędzy 1185-1190
+- Obejmuje okres od legendarnego cesarza Jimmu aż to cesarza Ninmyō; spisywane pomiędzy 1185-1190
 - autor: Nakayama no Tadachika (1131-1195) ?
 - pod względem literackim tekst jest mało atrakcyjny i zawiera głownie zapiski na temat panowania poszczególnych władców; brak rozdziałów  od członkach artystokracji, które występują w innych zwiercaidłach
 - wykorzystanie jednego tekstu źródłowego - Fusō ryakki (krótka historia Japonii, pocz XIIw.) autorstwa Kōena -> Mizukagami jako niepełny przekład Fusō ryakki

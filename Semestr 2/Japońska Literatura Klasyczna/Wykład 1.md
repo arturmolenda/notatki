@@ -72,7 +72,7 @@ Eiga Monogatari
 
 Uważa się, że tekst powstawał 2 częściowo - 2 autorsko. Jedna część pochodzi z okresu świetności Fujiwary Michinagi ok. 1 połowa XI w. (1030) 30 rozdziałów powstało wtenczas 
 Reszta 10 rozdziałów powstwała pod koniec XI w.
-Tekst zaczyna sięod poącztu okresu Heian IX w.
+Tekst zaczyna się od początku okresu Heian IX w.
 
 Autorką pierwszej części była kobieta Akazome Temo(???) 
 wpływ genji monogatari na opowieść
